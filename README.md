@@ -17,6 +17,7 @@
 - ⚡ Fun fact **My life itself is funny!**
 
 <br>
+
 [![Spotify](https://novatorem-two-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/tmu94p08mnf6k686uc7dyox9x)
 
 
