@@ -1,8 +1,8 @@
-[![Spotify](https://novatorem-two-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/tmu94p08mnf6k686uc7dyox9x)
-
 <h1 align="center">Hi 👋, I'm Akash R Chandran</h1>
 
 <h3 align="center">Depressed fellow into coding nothing else</h3>
+
+<centre>[![Spotify](https://novatorem-two-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/tmu94p08mnf6k686uc7dyox9x)</centre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashrchandran&label=Profile%20views&color=0e75b6&style=flat" alt="akashrchandran" /> </p>
 
