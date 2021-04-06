@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **My life itself is funny!**
 
-<h3 align="left">Vibing To:-</p>
+<h3 align="left">Vibing To:-</h3>
 [![Spotify](https://novatorem-two-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/tmu94p08mnf6k686uc7dyox9x)
 <h3 align="left">Languages and Tools:</h3>
 
