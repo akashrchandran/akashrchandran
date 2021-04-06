@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashrchandran&label=Profile%20views&color=0e75b6&style=flat" alt="akashrchandran" /> </p>
 
-- 🔭 I’m currently working on **My Api**
+- 🔭 I’m currently working on **Fixing My Life**
 
 - 🌱 I’m currently learning **React, C, C#**
 
