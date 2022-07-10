@@ -19,7 +19,23 @@
 <br>
 <br>
 
-![Akash R Chandran's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashrchandran&show_icons=true&theme=onedark)
+## 🏆 Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=akashrchandran)
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashrchandran&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=akashrchandran&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
+
+## 📊 GitHub Activity
+| ![Arita github stats](https://github-readme-stats.vercel.app/api?username=akashrchandran&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashrchandran&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashrchandran&langs_count=8&theme=radical&layout=compact) | ![Github Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=akashrchandran&repo=Account_checkbot&cache_seconds=86400&theme=radical) |
 
 <br>
 
