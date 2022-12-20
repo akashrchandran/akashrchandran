@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Akash R Chandran</h1>
 
-<h3 align="center">Depressed fellow into coding nothing else</h3>
+<h3 align="center">Self-Taught Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashrchandran&label=Profile%20views&color=0e75b6&style=flat" alt="akashrchandran" /> </p>
 
 - 🔭 I’m currently working on **Fixing My Life**
 
-- 🌱 I’m currently learning **React, C, C#**
+- 🌱 I’m currently learning **React, JavaScript, Java**
 
-- 👯 I’m looking to collaborate on **Account check bot**
+- 👯 I’m looking to collaborate on **Spotify-lyrics-api**
 
 - 💬 Ask me about **Python3, javascript and Html/Css**
 
@@ -27,7 +27,7 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashrchandran&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=akashrchandran&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+      <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=akashrchandran&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" display=block width=100% height=auto alt="3" ></td>
   </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
 ## 📊 GitHub Activity
 | ![Arita github stats](https://github-readme-stats.vercel.app/api?username=akashrchandran&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashrchandran&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashrchandran&langs_count=8&theme=radical&layout=compact) | ![Github Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=akashrchandran&repo=Account_checkbot&cache_seconds=86400&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashrchandran&langs_count=8&theme=radical&layout=compact) | ![Github Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=akashrchandran&repo=spotify-lyrics-api&cache_seconds=86400&theme=radical) |
 
 <br>
 
