@@ -46,6 +46,6 @@
 
 <details>
   <summary><h2>📜 Latest Blog Posts</h2></summary>
- <!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 </details>
