@@ -43,3 +43,9 @@
 
 [![Spotify](https://novatorem-two-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/tmu94p08mnf6k686uc7dyox9x)
 </div>
+
+<details>
+  <summary><h2>📜 Latest Blog Posts</h2></summary>
+ <!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+</details>
