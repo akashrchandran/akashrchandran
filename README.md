@@ -50,7 +50,7 @@
 <p align="left">
 <a href="https://akashrchandran.hashnode.dev/how-to-host-fastapi-application-on-deta-space-clfrn55nj00xqrunv1z6h6346" title="How to host FastAPI application on Deta Space"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679946314333/e647c4c1-d65c-43d3-8e5a-2a2f8e2f0411.png" alt="How to host FastAPI application on Deta Space" width="250px" align="left" /></a>
 <a href="https://akashrchandran.hashnode.dev/how-to-host-fastapi-application-on-deta-space-clfrn55nj00xqrunv1z6h6346" title="How to host FastAPI application on Deta Space"><strong>How to host FastAPI application on Deta Space</strong></a>
-<div><strong>28 Mar 2023</strong> | <strong>Updated: 28 Mar 2023</strong></div>
+<div><strong>28 Mar 2023</strong> | <strong>Updated: 29 Mar 2023</strong></div>
 <br/> Almost 2 years ago while browsing through the FastAPI docs, I came across their sponsors one of which was deta.sh and it is still there you can view it at FastAPI Docs. As a curious person, I opened the link and browsed through their website. At that... </p> <br/> <br/>
 <p align="left">
 <a href="https://akashrchandran.hashnode.dev/top-10-python-packages-every-developer-should-know-about-clf1ga7ct000008mi5zy93ar5" title="Top 10 Python Packages Every Developer Should Know About"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678386759783/fe665181-bedd-4f0f-901a-99b716b69126.png" alt="Top 10 Python Packages Every Developer Should Know About" width="250px" align="right" /></a>
