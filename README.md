@@ -48,28 +48,19 @@
   <summary><h2>📜 Latest Blog Posts</h2></summary>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://akashrchandran.hashnode.dev/how-to-host-fastapi-application-on-deta-space-clfrn55nj00xqrunv1z6h6346" title="How to host FastAPI application on Deta Space"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679946314333/e647c4c1-d65c-43d3-8e5a-2a2f8e2f0411.png" alt="How to host FastAPI application on Deta Space" width="250px" align="left" /></a>
+<a href="https://akashrchandran.hashnode.dev/vercel-launches-3-new-storage-options-for-your-next-project-clhqbs9t5000109jx4rlhb58n" title="Vercel Launches 3 New Storage Options for Your Next Project!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684242075188/a6cf8f33-bb8f-4679-a6b3-3158fafc64b9.png" alt="Vercel Launches 3 New Storage Options for Your Next Project!" width="250px" align="left" /></a>
+<a href="https://akashrchandran.hashnode.dev/vercel-launches-3-new-storage-options-for-your-next-project-clhqbs9t5000109jx4rlhb58n" title="Vercel Launches 3 New Storage Options for Your Next Project!"><strong>Vercel Launches 3 New Storage Options for Your Next Project!</strong></a>
+<div><strong>16 May 2023</strong> | <strong>Updated: 16 May 2023</strong></div>
+<br/> If you have tried manually deploying apps to production, then you may know how nerve-wracking things can be. Even the slightest mistake could cause the production database to be deleted, leading the company to lose billions of dollars, making you fre... </p> <br/> <br/>
+<p align="left">
+<a href="https://akashrchandran.hashnode.dev/how-to-host-fastapi-application-on-deta-space-clfrn55nj00xqrunv1z6h6346" title="How to host FastAPI application on Deta Space"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679946314333/e647c4c1-d65c-43d3-8e5a-2a2f8e2f0411.png" alt="How to host FastAPI application on Deta Space" width="250px" align="right" /></a>
 <a href="https://akashrchandran.hashnode.dev/how-to-host-fastapi-application-on-deta-space-clfrn55nj00xqrunv1z6h6346" title="How to host FastAPI application on Deta Space"><strong>How to host FastAPI application on Deta Space</strong></a>
 <div><strong>28 Mar 2023</strong> | <strong>Updated: 29 Mar 2023</strong></div>
 <br/> Almost 2 years ago while browsing through the FastAPI docs, I came across their sponsors one of which was deta.sh and it is still there you can view it at FastAPI Docs. As a curious person, I opened the link and browsed through their website. At that... </p> <br/> <br/>
 <p align="left">
-<a href="https://akashrchandran.hashnode.dev/top-10-python-packages-every-developer-should-know-about-clf1ga7ct000008mi5zy93ar5" title="Top 10 Python Packages Every Developer Should Know About"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678386759783/fe665181-bedd-4f0f-901a-99b716b69126.png" alt="Top 10 Python Packages Every Developer Should Know About" width="250px" align="right" /></a>
+<a href="https://akashrchandran.hashnode.dev/top-10-python-packages-every-developer-should-know-about-clf1ga7ct000008mi5zy93ar5" title="Top 10 Python Packages Every Developer Should Know About"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678386759783/fe665181-bedd-4f0f-901a-99b716b69126.png" alt="Top 10 Python Packages Every Developer Should Know About" width="250px" align="left" /></a>
 <a href="https://akashrchandran.hashnode.dev/top-10-python-packages-every-developer-should-know-about-clf1ga7ct000008mi5zy93ar5" title="Top 10 Python Packages Every Developer Should Know About"><strong>Top 10 Python Packages Every Developer Should Know About</strong></a>
 <div><strong>9 Mar 2023</strong> | <strong>Updated: 10 Mar 2023</strong></div>
 <br/> Python is undoubtedly one of the most popular programming languages in today's tech industry. With an ever-increasing number of developers turning to it, Python has established itself as a must-know skill for any aspiring programmer or software engin... </p> <br/> <br/>
-<p align="left">
-<a href="https://akashrchandran.hashnode.dev/rarely-used-python-operators-and-functions-clehg1vjf000109l83j74ge92" title="Going Beyond the
-Basics: Rarely Used Python
-Operators and Functions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677203225236/af49e508-7c04-43b4-ae0a-a52da360598b.png" alt="Going Beyond the
-Basics: Rarely Used Python
-Operators and Functions" width="250px" align="left" /></a>
-<a href="https://akashrchandran.hashnode.dev/rarely-used-python-operators-and-functions-clehg1vjf000109l83j74ge92" title="Going Beyond the
-Basics: Rarely Used Python
-Operators and Functions"><strong>Going Beyond the
-Basics: Rarely Used Python
-Operators and Functions</strong></a>
-<div><strong>23 Feb 2023</strong> | <strong>Updated: 10 Mar 2023</strong></div>
-<br/> Introduction
-I am a self-taught python developer for more than 3 years now and yet I'm constantly surprised by the new things I learn every day. Each day I find a new operator or function which makes life so much easier. Many operators and functions ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 </details>
