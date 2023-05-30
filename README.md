@@ -48,19 +48,19 @@
   <summary><h2>📜 Latest Blog Posts</h2></summary>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://akashrchandran.hashnode.dev/vercel-launches-3-new-storage-options-for-your-next-project-clhqbs9t5000109jx4rlhb58n" title="Vercel Launches 3 New Storage Options for Your Next Project!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684242075188/a6cf8f33-bb8f-4679-a6b3-3158fafc64b9.png" alt="Vercel Launches 3 New Storage Options for Your Next Project!" width="250px" align="left" /></a>
+<a href="https://akashrchandran.hashnode.dev/how-to-create-rest-api-using-django-rest-framework-cli8pvahx000708lcgklk3aio" title="How to create REST API using Django REST framework"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685356199422/1153d641-4394-4459-909f-e3c8bd16d5d4.png" alt="How to create REST API using Django REST framework" width="250px" align="left" /></a>
+<a href="https://akashrchandran.hashnode.dev/how-to-create-rest-api-using-django-rest-framework-cli8pvahx000708lcgklk3aio" title="How to create REST API using Django REST framework"><strong>How to create REST API using Django REST framework</strong></a>
+<div><strong>29 May 2023</strong> | <strong>Updated: 29 May 2023</strong></div>
+<br/> Let me introduce you to Steve, a banana farmer who cultivates a diverse range of bananas, from Apple bananas to Lady Fingers bananas. And steve love's his bananas and wants to sell them to the online market. Let's say he already has a website to list... </p> <br/> <br/>
+<p align="left">
+<a href="https://akashrchandran.hashnode.dev/vercel-launches-3-new-storage-options-for-your-next-project-clhqbs9t5000109jx4rlhb58n" title="Vercel Launches 3 New Storage Options for Your Next Project!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684242075188/a6cf8f33-bb8f-4679-a6b3-3158fafc64b9.png" alt="Vercel Launches 3 New Storage Options for Your Next Project!" width="250px" align="right" /></a>
 <a href="https://akashrchandran.hashnode.dev/vercel-launches-3-new-storage-options-for-your-next-project-clhqbs9t5000109jx4rlhb58n" title="Vercel Launches 3 New Storage Options for Your Next Project!"><strong>Vercel Launches 3 New Storage Options for Your Next Project!</strong></a>
 <div><strong>16 May 2023</strong> | <strong>Updated: 16 May 2023</strong></div>
 <br/> If you have tried manually deploying apps to production, then you may know how nerve-wracking things can be. Even the slightest mistake could cause the production database to be deleted, leading the company to lose billions of dollars, making you fre... </p> <br/> <br/>
 <p align="left">
-<a href="https://akashrchandran.hashnode.dev/how-to-host-fastapi-application-on-deta-space-clfrn55nj00xqrunv1z6h6346" title="How to host FastAPI application on Deta Space"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679946314333/e647c4c1-d65c-43d3-8e5a-2a2f8e2f0411.png" alt="How to host FastAPI application on Deta Space" width="250px" align="right" /></a>
+<a href="https://akashrchandran.hashnode.dev/how-to-host-fastapi-application-on-deta-space-clfrn55nj00xqrunv1z6h6346" title="How to host FastAPI application on Deta Space"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679946314333/e647c4c1-d65c-43d3-8e5a-2a2f8e2f0411.png" alt="How to host FastAPI application on Deta Space" width="250px" align="left" /></a>
 <a href="https://akashrchandran.hashnode.dev/how-to-host-fastapi-application-on-deta-space-clfrn55nj00xqrunv1z6h6346" title="How to host FastAPI application on Deta Space"><strong>How to host FastAPI application on Deta Space</strong></a>
 <div><strong>28 Mar 2023</strong> | <strong>Updated: 29 Mar 2023</strong></div>
 <br/> Almost 2 years ago while browsing through the FastAPI docs, I came across their sponsors one of which was deta.sh and it is still there you can view it at FastAPI Docs. As a curious person, I opened the link and browsed through their website. At that... </p> <br/> <br/>
-<p align="left">
-<a href="https://akashrchandran.hashnode.dev/top-10-python-packages-every-developer-should-know-about-clf1ga7ct000008mi5zy93ar5" title="Top 10 Python Packages Every Developer Should Know About"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678386759783/fe665181-bedd-4f0f-901a-99b716b69126.png" alt="Top 10 Python Packages Every Developer Should Know About" width="250px" align="left" /></a>
-<a href="https://akashrchandran.hashnode.dev/top-10-python-packages-every-developer-should-know-about-clf1ga7ct000008mi5zy93ar5" title="Top 10 Python Packages Every Developer Should Know About"><strong>Top 10 Python Packages Every Developer Should Know About</strong></a>
-<div><strong>9 Mar 2023</strong> | <strong>Updated: 10 Mar 2023</strong></div>
-<br/> Python is undoubtedly one of the most popular programming languages in today's tech industry. With an ever-increasing number of developers turning to it, Python has established itself as a must-know skill for any aspiring programmer or software engin... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 </details>
